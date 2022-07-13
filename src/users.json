@@ -2,654 +2,761 @@
 	{
 	  "firstName": "Alec",
 	  "lastName": "Budd",
-	  "campus": "Berlin",
-	  "role": "student"
+	  "campus": "Tokyo",
+	  "role": "student",
+	  "id": "295a4dab-74b2-4e60-b3c2-c1346aba7585"
 	},
 	{
 	  "firstName": "Alexander",
 	  "lastName": "Burdett",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "4522f16e-3f55-4863-ae36-e935ec9cb4ef"
 	},
 	{
 	  "firstName": "Amelia",
 	  "lastName": "Chorng Uan ",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "6cf41052-7869-490f-9c2c-8f8efd2a4b5d"
 	},
 	{
 	  "firstName": "André",
 	  "lastName": "Sebastian",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "5358b8a4-fe62-4f7d-9a22-712be95a1f72"
 	},
 	{
 	  "firstName": "Andre",
 	  "lastName": "Wittwer",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "6fa4681a-61e1-4bf6-823a-24b2fe335543"
 	},
 	{
 	  "firstName": "Anja",
 	  "lastName": "Bottcher",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "bbdabd03-0e02-4e7d-a7fc-ce52cc1164be"
 	},
 	{
 	  "firstName": "Anjali",
 	  "lastName": "Patel",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "a385a23f-07ed-4340-9ba7-937a0ce5f151"
 	},
 	{
 	  "firstName": "Anna",
 	  "lastName": "Dorsch",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "10858000-7894-4d77-bd0f-24639d111e74"
 	},
 	{
 	  "firstName": "Anna",
 	  "lastName": "Schäffner",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "dda6571a-8fa7-4833-9890-f5db7834ae26"
 	},
 	{
 	  "firstName": "Anne",
 	  "lastName": "Truong",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "ee10c010-6b64-406c-879d-3f0c8d9264a8"
 	},
 	{
 	  "firstName": "Anthony",
 	  "lastName": "Ioimo",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "08e73101-cd0a-4404-81cd-6cdb81ffea0e"
 	},
 	{
 	  "firstName": "Antonio",
 	  "lastName": "Ferreira",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "b3625653-af11-4ce5-a78a-1268a4f16b80"
 	},
 	{
 	  "firstName": "Augusto",
 	  "lastName": "Galuppo",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "c5458601-e6ed-471c-8142-1532bb8a09aa"
 	},
 	{
 	  "firstName": "Axel",
 	  "lastName": "Dahlin",
 	  "campus": "Berlin",
 	  "role": "student",
-	  "linkedin": "https://www.linkedin.com/in/axel-dahlin-72a3b813b/"
+	  "linkedin": "https://www.linkedin.com/in/axel-dahlin-72a3b813b/",
+	  "id": "61695b57-7f79-47da-928f-e8b73e1a4ee2"
 	},
 	{
 	  "firstName": "Bénédicte",
 	  "lastName": "Meignan",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "a4c0b920-4960-43c8-8e02-c963effaa50d"
 	},
 	{
 	  "firstName": "Binu",
 	  "lastName": "Nair",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "ee66e4a2-6282-4eaf-97ad-76f660775171"
 	},
 	{
 	  "firstName": "Brandon",
 	  "lastName": "Empey",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "52298804-bd51-485f-8532-7ad637cbd740"
 	},
 	{
 	  "firstName": "Carla",
 	  "lastName": "Mendes",
 	  "campus": "Lisbon",
 	  "role": "student",
-	  "linkedin": "https://www.linkedin.com/in/carlarsmendespt/"
+	  "linkedin": "https://www.linkedin.com/in/carlarsmendespt/",
+	  "id": "fcc502fc-42b1-4050-8922-8b213ea97518"
 	},
 	{
 	  "firstName": "Carlos",
 	  "lastName": "Botto",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "ca0fc6a5-4f3f-4145-87dd-683f8a4cb482"
 	},
 	{
 	  "firstName": "Carlos",
 	  "lastName": "Cazallas Delfa",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "f6067f52-32ff-4095-a1e3-d12ec33d30f4"
 	},
 	{
 	  "firstName": "David",
 	  "lastName": "Pinhas",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "0c38d93f-f525-4538-9489-dc130f3b5da3"
 	},
 	{
 	  "firstName": "Diogo",
 	  "lastName": "Bessa",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "1ecc10a0-8009-4147-b57b-015490276142"
 	},
 	{
 	  "firstName": "Doris",
 	  "lastName": "Santos",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "b91fede8-d011-46d7-a4d5-c28c778f4d22"
 	},
 	{
 	  "firstName": "Eduardo",
 	  "lastName": "San Martin",
 	  "campus": "Paris",
 	  "role": "teacher",
-	  "linkedin": "https://www.linkedin.com/in/edsanmartin/"
+	  "linkedin": "https://www.linkedin.com/in/edsanmartin/",
+	  "id": "8d413739-31bd-4eb7-99af-44b6737b0214"
 	},
 	{
 	  "firstName": "Elodie",
 	  "lastName": "Wanang",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "d0725c51-7976-43d4-932b-c36806adab74"
 	},
 	{
 	  "firstName": "Emina",
 	  "lastName": "Sonnad",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "4746799a-f37b-43cd-b7cc-9ca5c20788d5"
 	},
 	{
 	  "firstName": "Emmanuel",
 	  "lastName": "Iyere",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "37295435-5d21-4d96-b9a2-b58853faffae"
 	},
 	{
 	  "firstName": "Eullin",
 	  "lastName": "Chang",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "93295ca6-27d7-4500-847d-252e25736d41"
 	},
 	{
 	  "firstName": "Federico",
 	  "lastName": "Cassettai",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "d13f20b0-2a91-490b-8a10-00039714cdce"
 	},
 	{
 	  "firstName": "Felicitas",
 	  "lastName": "Deutges",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "e1b2c8d2-9a50-4796-b859-be16e03a8b11"
 	},
 	{
 	  "firstName": "Felix",
 	  "lastName": "Grosser",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "c305dae8-a55c-41ad-b249-1b3e0da6104a"
 	},
 	{
 	  "firstName": "Felix",
 	  "lastName": "Höhne",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "61288216-a870-412c-bbc8-8a3b88427f9c"
 	},
 	{
 	  "firstName": "François",
 	  "lastName": "Kieffer",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "1dbf760b-7e88-4991-b069-11fdf40f4ba8"
 	},
 	{
 	  "firstName": "Franziska",
 	  "lastName": "Bath",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "7e70a2c0-52a1-4b4d-bd5e-5c7bd0011b38"
 	},
 	{
 	  "firstName": "Frederic",
 	  "lastName": "Jacquette",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "da26e7fa-3dc1-4eb4-bf13-53dd0a039044"
 	},
 	{
 	  "firstName": "Frederic",
 	  "lastName": "Magnin",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "df0bf326-1186-49c7-8b8b-4ef800f1cdd1"
 	},
 	{
 	  "firstName": "Giulia",
 	  "lastName": "Gallorini",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "79c0e82e-4b3e-43f5-ae0f-9ceee2fceea5"
 	},
 	{
 	  "firstName": "Guilherme",
 	  "lastName": "Carmona",
 	  "campus": "Lisbon",
 	  "role": "student",
-	  "linkedin": "https://www.linkedin.com/in/guilherme-carmona/"
+	  "linkedin": "https://www.linkedin.com/in/guilherme-carmona/",
+	  "id": "90406191-9962-462f-a415-fc4a88a02f9e"
 	},
 	{
 	  "firstName": "Hendrik",
 	  "lastName": "Wermser",
 	  "campus": "Berlin",
 	  "role": "teacher",
-	  "linkedin": "https://www.linkedin.com/in/hendrikwe/"
+	  "linkedin": "https://www.linkedin.com/in/hendrikwe/",
+	  "id": "fd34c5b3-742c-445f-bee6-baceb59cb640"
 	},
 	{
 	  "firstName": "Hubert",
 	  "lastName": "Saint Olive",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "23678e40-2de3-4453-8cb7-ed2439ba6cb1"
 	},
 	{
 	  "firstName": "Hugo",
 	  "lastName": "Lourenço",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "81d5e042-4f02-40ff-97ad-fcacac199a8c"
 	},
 	{
 	  "firstName": "Ingo",
 	  "lastName": "Grossmann",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "a35bb00d-4600-4630-a05a-9a57da2bdaa8"
 	},
 	{
 	  "firstName": "Jad",
 	  "lastName": "Challita",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "7e118f2e-3520-41de-9868-20cfc27d4a38"
 	},
 	{
 	  "firstName": "Jamie",
 	  "lastName": "Egan",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "d2d360a7-0aec-4f59-96c2-5e63cba7a6f2"
 	},
 	{
 	  "firstName": "Jennifer",
 	  "lastName": "Roberts",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "386f88a9-eaaf-48aa-b11c-28039daac30f"
 	},
 	{
 	  "firstName": "Joana",
 	  "lastName": "Ribeiro",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "a64ec551-0e2f-46a3-8d6a-364757e7be1e"
 	},
 	{
 	  "firstName": "Jody",
 	  "lastName": "Richardson",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "30c27cf6-4241-464e-a3eb-1c735f61fd43"
 	},
 	{
 	  "firstName": "Johanna",
 	  "lastName": "Skuhra",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "3a81e2c7-6c06-444b-a2bb-b8f0b518b491"
 	},
 	{
 	  "firstName": "Jorge",
 	  "lastName": "Costa",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "7dd81a0f-5925-402e-b0c0-0c8b9ba1e203"
 	},
 	{
 	  "firstName": "José",
 	  "lastName": "Carneiro",
 	  "campus": "Lisbon",
 	  "role": "teacher",
-	  "linkedin": "https://www.linkedin.com/in/josemcarneiro/"
+	  "linkedin": "https://www.linkedin.com/in/josemcarneiro/",
+	  "id": "3cfb9f4d-c38e-4f2d-80bb-1326ea7a8909"
 	},
 	{
 	  "firstName": "Jose",
 	  "lastName": "Nogueira",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "f318c996-3ae2-44d6-b28e-a80747ea1855"
 	},
 	{
 	  "firstName": "Julia",
 	  "lastName": "Miller",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "d85d6fc9-c8b4-44e9-b78e-26dd8d47ad23"
 	},
 	{
 	  "firstName": "Katrin",
 	  "lastName": "Abel",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "a7402081-44d3-4e92-8046-321e0c8abf17"
 	},
 	{
 	  "firstName": "Khalil",
 	  "lastName": "Najjar",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "61c8dbff-586e-41b8-93a4-ecaf3df5a460"
 	},
 	{
 	  "firstName": "Ksenia",
 	  "lastName": "Danniker",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "d1be28e1-db18-428c-82cc-dc65f8bb2612"
 	},
 	{
 	  "firstName": "Laura",
 	  "lastName": "Puyol Rigol",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "a45524f8-c745-42db-955d-bbece373ce25"
 	},
 	{
 	  "firstName": "Lesly",
 	  "lastName": "Lim",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "1e5405b8-3736-4d79-8fb6-f656c5ceb70c"
 	},
 	{
 	  "firstName": "Liang",
 	  "lastName": "Zhang",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "8ec03394-708e-49b6-8a88-394b895bfd79"
 	},
 	{
 	  "firstName": "Lindsay",
 	  "lastName": "Wilson",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "e7e2e62c-0373-4044-bede-83a3a4200710"
 	},
 	{
 	  "firstName": "Liudmyla",
 	  "lastName": "Iefremova",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "43cad9f6-d401-498c-88b7-359606ea16bb"
 	},
 	{
 	  "firstName": "Lukas",
 	  "lastName": "Gisder-Dubé",
 	  "campus": "Berlin",
 	  "role": "teacher",
-	  "linkedin": "https://www.linkedin.com/in/gisderdube/"
+	  "linkedin": "https://www.linkedin.com/in/gisderdube/",
+	  "id": "3bf51639-d329-4bdd-8591-ca4f9118341d"
 	},
 	{
 	  "firstName": "Malte",
 	  "lastName": "Felmy",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "4c30987c-cdb3-4f9a-99e6-07d929062389"
 	},
 	{
 	  "firstName": "Mande",
 	  "lastName": "Gueye",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "3dc6d64d-a478-42f6-8720-a1a1e2cc8c8b"
 	},
 	{
 	  "firstName": "Mariana",
 	  "lastName": "Vargas",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "ffc61418-048c-4821-b30f-a75d33b0ffd7"
 	},
 	{
 	  "firstName": "Martin",
 	  "lastName": "Poth",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "e35791af-f50f-4620-b378-6292c96c10a5"
 	},
 	{
 	  "firstName": "Marvin",
 	  "lastName": "Artioli",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "662057eb-8943-4336-8860-e687b232386a"
 	},
 	{
 	  "firstName": "Mathieu ",
 	  "lastName": "Revillion",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "1e2bf1e6-d15d-4fdd-bc60-79e1603357f5"
 	},
 	{
 	  "firstName": "Matt",
 	  "lastName": "Harrison",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "755aad5d-81dc-410a-823e-009776f14262"
 	},
 	{
 	  "firstName": "Matthias",
 	  "lastName": "Staudinger",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "335fada5-fd33-427e-82a2-42daee88dc4b"
 	},
 	{
 	  "firstName": "Maxence",
 	  "lastName": "Bouret",
 	  "campus": "Paris",
 	  "role": "teacher",
-	  "linkedin": "https://www.linkedin.com/in/bouretm/"
+	  "linkedin": "https://www.linkedin.com/in/bouretm/",
+	  "id": "d551f1f9-edd7-444f-8b3b-87d45bf4f7f2"
 	},
 	{
 	  "firstName": "Mehdi",
 	  "lastName": "Aitali",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "04d846cb-d44c-46a5-9a92-022aad66a0bb"
 	},
 	{
 	  "firstName": "Mejdi",
 	  "lastName": "Arfaoui",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "4499d8f9-0f6f-4fc6-8a1c-1da41af00f7c"
 	},
 	{
 	  "firstName": "Michael",
 	  "lastName": "Lande Blau",
 	  "campus": "Paris",
 	  "role": "student",
-	  "linkedin": "https://www.linkedin.com/in/miclande/"
+	  "linkedin": "https://www.linkedin.com/in/miclande/",
+	  "id": "bf975467-878c-434b-91db-d3bae5495ce0"
 	},
 	{
 	  "firstName": "Mickaël",
 	  "lastName": "Bolnet",
 	  "campus": "Paris",
 	  "role": "teacher",
-	  "linkedin": "https://www.linkedin.com/in/mickael-bolnet-71189659/"
+	  "linkedin": "https://www.linkedin.com/in/mickael-bolnet-71189659/",
+	  "id": "dda86045-9e5a-47a0-98fd-e70419934e5d"
 	},
 	{
 	  "firstName": "Min",
 	  "lastName": "Sheng",
 	  "campus": "Berlin",
 	  "role": "student",
-	  "linkedin": "https://www.linkedin.com/in/min-sheng-ang/"
+	  "linkedin": "https://www.linkedin.com/in/min-sheng-ang/",
+	  "id": "085579a0-0caa-4034-a1a4-06026275d53f"
 	},
 	{
 	  "firstName": "Moritz",
 	  "lastName": "Opitz",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "4110671b-8d0d-4d06-b671-9d5886c35c71"
 	},
 	{
 	  "firstName": "Na'aman",
 	  "lastName": "Hirschfeld",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "9a3b332a-2d64-4103-94b6-7a7fd415401e"
 	},
 	{
 	  "firstName": "Nadir",
 	  "lastName": "Berrara",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "62f65198-a55d-4fee-a09e-23ed643b9ddb"
 	},
 	{
 	  "firstName": "Natasha",
 	  "lastName": "Silva",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "9d9f2e4e-f6ff-4c86-9318-22ab7b0f2509"
 	},
 	{
 	  "firstName": "Nele",
 	  "lastName": "Lüpkes",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "8aaa9e4e-a1e7-418e-9f77-b3163d2d4d00"
 	},
 	{
 	  "firstName": "Nelson",
 	  "lastName": "Aires",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "a9a5be21-48c9-4305-860c-f1387389dad6"
 	},
 	{
 	  "firstName": "Nicolas",
 	  "lastName": "Barthez",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "1184c582-29ab-4fa7-b493-29ee7282446d"
 	},
 	{
 	  "firstName": "Octave",
 	  "lastName": "Lapeyronie",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "b473d018-5768-41e4-8ae7-75516093f988"
 	},
 	{
 	  "firstName": "Ombline",
 	  "lastName": "Gilliot",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "c2b06395-f7f0-49df-8188-4286ebdc5584"
 	},
 	{
 	  "firstName": "Özgür",
 	  "lastName": "Dil",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "d93efc57-2b41-41c4-9ccc-4d704f6f497f"
 	},
 	{
 	  "firstName": "Patricia",
 	  "lastName": "Rosalis",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "b9e2dbff-6fea-43e6-8810-4ce6b351bedb"
 	},
 	{
 	  "firstName": "Paul",
 	  "lastName": "Frederick",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "da63be2a-5cfa-4f36-878d-38577bf3f6a9"
 	},
 	{
 	  "firstName": "Pedro",
 	  "lastName": "Arantes",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "36352a06-7a9a-49b4-abc2-f778fa67e15c"
 	},
 	{
 	  "firstName": "Pernille",
 	  "lastName": "Kloster",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "8bbfe82d-06c5-4b7b-9274-2efaa2e496f5"
 	},
 	{
 	  "firstName": "Petter",
 	  "lastName": "Åstedt",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "1c2d9c01-025c-46e1-971b-2a28713e3dd4"
 	},
 	{
 	  "firstName": "Reshma",
 	  "lastName": "Patel",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "9000a1b2-d5f7-4c81-b0c3-be1c3a0a5992"
 	},
 	{
 	  "firstName": "Ruby",
 	  "lastName": "Lai",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "17819da1-034e-4360-98d5-970d63d48e55"
 	},
 	{
 	  "firstName": "Sagy",
 	  "lastName": "Mizrahi",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "9f7d9105-8ad8-4dc8-bd46-122908438e24"
 	},
 	{
 	  "firstName": "Salvatore",
 	  "lastName": "Dziekan",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "91575872-38de-4645-b367-737f360b5321"
 	},
 	{
 	  "firstName": "Samanta",
 	  "lastName": "Boero",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "5963e34e-5b66-4fd4-a30b-be2672036faa"
 	},
 	{
 	  "firstName": "Sebastien",
 	  "lastName": "Morelle",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "653ca1b6-88ce-4876-9b99-c932f9cce5b2"
 	},
 	{
 	  "firstName": "Seyawosh",
 	  "lastName": "Rahimi",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "11c0aa56-71df-4274-881e-f3e761dbe4a9"
 	},
 	{
 	  "firstName": "Sinan",
 	  "lastName": "Taylan",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "37dbf0d6-58f1-4b59-9172-d866a470b285"
 	},
 	{
 	  "firstName": "Sofia",
 	  "lastName": "Ornelas",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "5378cb8d-a24e-47e1-a02d-76b7fa8b9143"
 	},
 	{
 	  "firstName": "Sonia",
 	  "lastName": "Meller",
 	  "campus": "Lisbon",
-	  "role": "student"
+	  "role": "student",
+	  "id": "f707e489-f29d-420d-a676-be4cc7fef77a"
 	},
 	{
 	  "firstName": "Stuart",
 	  "lastName": "Gardner",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "a6c78c27-20b4-420c-bb04-f6c25ba024f0"
 	},
 	{
 	  "firstName": "Svenja",
 	  "lastName": "Weiler",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "be44f08d-1acf-4858-b85a-25b3b6eb6f31"
 	},
 	{
 	  "firstName": "Thibaut",
 	  "lastName": "Davoult",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "6afc3f97-43cf-43b3-9176-084a86fe42d3"
 	},
 	{
 	  "firstName": "Thomas",
 	  "lastName": "Beguin",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "8b4a709f-a01b-4ca9-ab6f-5033c05424c3"
 	},
 	{
 	  "firstName": "Thomas",
 	  "lastName": "Burton",
 	  "campus": "Berlin",
-	  "role": "student"
+	  "role": "student",
+	  "id": "c0bd8210-2b62-475f-b123-a6eb19ee0a87"
 	},
 	{
 	  "firstName": "Valentin",
 	  "lastName": "Perot",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "86c39821-e5dc-4276-b41a-ed88a4d15d93"
 	},
 	{
 	  "firstName": "Vincent",
 	  "lastName": "Moulines",
 	  "campus": "Paris",
-	  "role": "student"
+	  "role": "student",
+	  "id": "a168c5ad-9fdf-4adf-9882-98ed53b5fc05"
 	}
   ]
